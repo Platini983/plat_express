@@ -6,7 +6,8 @@
 }
 
 .menu-bars {
-  margin-top: 2rem;
+  float: left;
+  margin: 1rem 0 0 2rem;
   font-size: 2rem;
   background: none;
 }
